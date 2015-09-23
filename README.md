@@ -3,6 +3,9 @@
 This software is specific for XM1000 motes (http://www.advanticsys.com/shop/asxm1000-p-24.html).
 
 # Installation
+
+Before installing the software, the XM1000 mote compatibility must be added to TinyOS. To do so, download the driver (http://www.advanticsys.com/shop/documents/1331215249_XM1000v6.zip) and follow the instructions.
+
 ##Unix
 
 For **UNIX** systems, once the mote is connected via USB, the software can be installed as follows:
