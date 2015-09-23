@@ -1,4 +1,4 @@
-# TinyOS XM1000 Mote Software
+# TinyOS XM1000 Radio Sensing Software
 
 This software is specific for XM1000 motes (http://www.advanticsys.com/shop/asxm1000-p-24.html).
 
