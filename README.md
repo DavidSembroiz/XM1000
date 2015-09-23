@@ -11,7 +11,7 @@ For **UNIX** systems, once the mote is connected via USB, the software can be in
 cd XM1000Radio/src/
 ./install.sh <#USB port>
 ```
-For instance, if the mote is connected to /dev/ttyUSB1, the installation is done as follows:
+For instance, if the mote is connected to **/dev/ttyUSB1**, the installation is done as follows:
 
 ```
 cd XM1000Radio/src/
