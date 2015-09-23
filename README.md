@@ -28,4 +28,4 @@ In order to change the rate in which data messages are sent, edit the file **XM1
 int SAMPLE_SECONDS = n;
 ```
 
-Change the value to an appropriate one and reinstall the software
+Change the value to an appropriate one and reinstall the software.
