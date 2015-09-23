@@ -1,11 +1,11 @@
 <tos_image>
   <ident>
-    <uidhash>2833D9DDL</uidhash>
+    <uidhash>BE25AA45L</uidhash>
     <hostname>user</hostname>
     <username>user</username>
     <appname>XM1000RadioAppC</appname>
     <userhash>37E4690FL</userhash>
-    <timestamp>5602644EL</timestamp>
+    <timestamp>56026DC1L</timestamp>
     <deluge_support>no</deluge_support>
     <platform>xm1000</platform>
   </ident>
