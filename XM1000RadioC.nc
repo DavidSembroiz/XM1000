@@ -23,6 +23,9 @@ module XM1000RadioC {
 }
 
 implementation{
+
+    int SAMPLE_SECONDS = 5;
+    
 	
 	bool busy = FALSE;
 	message_t pkt;
@@ -166,7 +169,7 @@ implementation{
 
 	event void AMControl.startDone(error_t error){
 		if (error == SUCCESS) {
-			call Timer.startPeriodic(5000);
+			call Timer.startPeriodic(SAMPLE_SECONDS * 1000);
 		}
 		else {
 			call AMControl.start();
