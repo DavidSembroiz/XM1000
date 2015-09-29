@@ -11,13 +11,11 @@ Before installing the software, the XM1000 mote compatibility must be added to T
 For **UNIX** systems, once the mote is connected via USB, the software can be installed as follows:
 
 ```
-cd XM1000Radio/src/
 ./install.sh <#USB port>
 ```
 For instance, if the mote is connected to **/dev/ttyUSB1**, the installation is done as follows:
 
 ```
-cd XM1000Radio/src/
 ./install.sh 1
 ```
 
